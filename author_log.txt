@@ -1,0 +1,14 @@
+after migration - 4 lines
+expected after migration - 4 lines
+============================
+expected:
+3,author4,21
+but found: 
+3,author4,22
+============================
+expected:
+5,author6,21
+but found: 
+5,author6,23
+============================
+found - 2 differences

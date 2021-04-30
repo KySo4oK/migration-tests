@@ -1,0 +1,14 @@
+after migration - 4 lines
+expected after migration - 4 lines
+============================
+expected:
+3,book3,drama
+but found: 
+3,book3,sci-fi
+============================
+expected:
+4,book4,drama
+but found: 
+4,book4,action
+============================
+found - 2 differences
